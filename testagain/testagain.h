@@ -12,6 +12,7 @@ public:
 	testagain(QWidget *parent = 0, Qt::WFlags flags = 0);
 	~testagain();
 	float bengxiakalaka;
+	int bbxiakalaka;
 private:
 	Ui::testagainClass ui;
 };
