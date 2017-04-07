@@ -11,7 +11,7 @@ class testagain : public QMainWindow
 public:
 	testagain(QWidget *parent = 0, Qt::WFlags flags = 0);
 	~testagain();
-
+	float bengxiakalaka;
 private:
 	Ui::testagainClass ui;
 };
